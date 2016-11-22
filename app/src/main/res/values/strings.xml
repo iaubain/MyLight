@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Isitimu</string>
+    <string name="about">Ibitwerekeye</string>
+    <string name="exit">Sohoka</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
